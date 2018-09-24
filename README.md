@@ -2,6 +2,8 @@
 
 This repository contains data for **Hadoop - Taming the Elephant (with a Whale)**.
 
+![hadoop-image](./assets/Hadoop.png)
+
 ## General Remarks
 
 ### Data-Set
